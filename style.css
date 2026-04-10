@@ -10,12 +10,27 @@ body {
   justify-content: space-between;
   padding: 20px;
   background: #112240;
+  font-size: 24px;
 }
 
 .main {
-  font-size: 40px;
-  padding: 40px;
   text-align: center;
+  padding: 20px;
+}
+
+.main img {
+  max-width: 80%;
+  max-height: 400px;
+  border-radius: 10px;
+}
+
+.main h2 {
+  font-size: 48px;
+  margin-top: 20px;
+}
+
+.main p {
+  font-size: 30px;
 }
 
 .ticker {
@@ -24,7 +39,8 @@ body {
   width: 100%;
   background: #ffcc00;
   color: black;
-  padding: 10px;
+  padding: 15px;
+  font-size: 24px;
   white-space: nowrap;
   overflow: hidden;
 }

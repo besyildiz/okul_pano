@@ -1,8 +1,24 @@
 {
-  "main": "📢 Yarın saat 10:00'da tatbikat yapılacaktır.",
+  "main": [
+    {
+      "title": "📢 Tatbikat Duyurusu",
+      "text": "11 Nisan Perşembe günü saat 10:00'da deprem tatbikatı yapılacaktır.",
+      "image": "https://images.unsplash.com/photo-1581093588401-22c1d1d1b6c3"
+    },
+    {
+      "title": "🧪 TÜBİTAK Projeleri",
+      "text": "Bilişim bölümü öğrencilerinin projeleri sergilenecektir.",
+      "image": "https://images.unsplash.com/photo-1581091012184-5c7f3b94c3a0"
+    },
+    {
+      "title": "⚽ Spor Turnuvası",
+      "text": "Futbol turnuvası başvuruları başlamıştır.",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2"
+    }
+  ],
   "ticker": [
-    "Sınav haftası başladı",
-    "Devamsızlıkları kontrol edin",
-    "Kulüp başvuruları açık"
+    "📌 Devamsızlıklarınızı e-Okul üzerinden kontrol ediniz",
+    "📌 Kantin fiyat listesi güncellenmiştir",
+    "📌 12. sınıflar için etüt programı yayınlandı"
   ]
 }
